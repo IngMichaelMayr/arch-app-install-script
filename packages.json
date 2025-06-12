@@ -1,0 +1,79 @@
+{
+  "global": [
+    {
+      "name": "flatpak"
+    },
+    {
+      "name": "elisa"
+    }
+  ],
+  "Discover": [
+    {
+      "name": "discover"
+    }
+  ],
+  "Office": [
+    {
+    "name": "libreoffice-fresh-de"
+    },
+    {
+    "name": "libreoffice-extension-languagetool"
+    },
+    {
+    "name": "thunderbird"
+    },
+    {
+    "name": "com.getmailspring.Mailspring",
+    "flatpak": true
+    },
+    {
+    "name": "onlyoffice-bin"
+    },
+    {
+    "name": "gimp"
+    },
+    {
+    "name": "gimp-help-de"
+    },
+    {
+    "name": "gimp-help-en"
+    },
+    {
+    "name": "firefox"
+    },
+    {
+    "name": "google-chrome"
+    },
+    {
+    "name": "flameshot"
+    },
+    {
+    "name": "keepassxc"
+    }
+  ],
+  "Media": [
+    {
+    "name": "vlc"
+    }
+  ],
+  "Development": [
+    {
+      "name": "git"
+    },
+    {
+      "name": "docker"
+    },
+    {
+      "name": "docker-compose"
+    },
+    {
+      "name": "docker-rootless-extras"
+    },
+    {
+      "name": "wget"
+    },
+    {
+      "name": "curl"
+    }
+  ]
+}
